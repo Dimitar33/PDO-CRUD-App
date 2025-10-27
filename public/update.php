@@ -46,3 +46,4 @@ try {
     </tbody>
 </table>
 <a href="index.php">Back to home</a>
+<?php include 'templates/footer.php'; ?>

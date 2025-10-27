@@ -60,3 +60,4 @@ if (isset($_GET["id"])) {
     <input type="submit" name="submit" value="Submit">
 </form>
 <a href="index.php">Back to home</a>
+<?php include 'templates/footer.php'; ?>
