@@ -6,6 +6,7 @@
     </li>
     <li>
         <a href="read.php"><strong>Read</strong></a>
+    </li>
     <li>
         <a href="update.php"><strong>Update</strong></a>
     </li>
